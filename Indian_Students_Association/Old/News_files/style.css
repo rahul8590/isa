@@ -1,0 +1,27 @@
+a:link {
+	color:#CCCCCC;
+	text-decoration:none;
+
+}
+
+a:visited {
+	color:#CCCCCC;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#FFCC00;
+	text-decoration:none;
+}
+
+a:active {
+	color:#CCCCCC;
+	text-decoration:none;
+}
+
+.data {
+	font-family:Papyrus, Onyx, Optima;
+	font-size:12px;
+	display:run-in;
+}
+		
